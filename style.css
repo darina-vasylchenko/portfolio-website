@@ -1,0 +1,74 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    box-sizing: border-box;
+}
+.footer {
+    background-color: #04AA6D;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: white;
+  }
+
+.topnav {
+    overflow: hidden;
+    background-color: #04AA6D;
+    
+  }
+  
+  
+  .topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    margin: 0;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #45a049;
+    color: white;
+  }
+  
+  input[type=text], input[type=email], textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    cursor: pointer;
+  }
+  
+ 
+  button:hover {
+    background-color: #45a049; 
+  }
+ 
+  .container {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    font-size: 30px;
+  }
+  img {
+    padding: 10px;
+  }
+  main {
+    padding: 30px 105px;
+  }
+
+  
